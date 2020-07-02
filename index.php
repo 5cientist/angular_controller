@@ -22,7 +22,7 @@
 </p>
 
 
-<div ng-view></div>
+<div ng-view class="text-center"></div>
 
 <script src="app/route.js"></script>
 
