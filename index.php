@@ -11,10 +11,13 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
 </head>
 <body ng-app='myApp'>
-<p>
-<button type="button" class="btn btn-primary">linux</button>
-<button type="button" class="btn btn-primary">windows</button>
-<button type="button" class="btn btn-primary">macOS</button>
+<p class="mt-5 text-center">
+<a href="">
+<button type="button" class="btn btn-primary">Linux</button></a>
+<a href="">
+<button type="button" class="btn btn-primary">Windows</button></a>
+<a href="">
+<button type="button" class="btn btn-primary">macOS</button></a>
 
 </p>
 
