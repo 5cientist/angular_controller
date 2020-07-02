@@ -12,11 +12,11 @@
 </head>
 <body ng-app='myApp'>
 <p class="mt-5 text-center">
-<a href="">
+<a href="#!linux">
 <button type="button" class="btn btn-primary">Linux</button></a>
-<a href="">
+<a href="#!windows">
 <button type="button" class="btn btn-primary">Windows</button></a>
-<a href="">
+<a href="#!macos">
 <button type="button" class="btn btn-primary">macOS</button></a>
 
 </p>
